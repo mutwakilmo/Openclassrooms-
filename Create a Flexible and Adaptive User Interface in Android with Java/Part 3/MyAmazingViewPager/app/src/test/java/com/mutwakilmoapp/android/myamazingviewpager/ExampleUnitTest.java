@@ -1,4 +1,4 @@
-package com.mutwakilmo.android.myamazingviewpager;
+package com.mutwakilmoapp.android.myamazingviewpager;
 
 import org.junit.Test;
 

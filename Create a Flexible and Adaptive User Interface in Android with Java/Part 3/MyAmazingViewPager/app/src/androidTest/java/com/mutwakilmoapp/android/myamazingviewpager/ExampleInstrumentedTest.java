@@ -1,4 +1,4 @@
-package com.mutwakilmo.android.myamazingviewpager;
+package com.mutwakilmoapp.android.myamazingviewpager;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.mutwakilmo.android.myamazingviewpager", appContext.getPackageName());
+        assertEquals("com.mutwakilmoapp.android.myamazingviewpager", appContext.getPackageName());
     }
 }
