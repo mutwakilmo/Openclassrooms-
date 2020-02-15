@@ -9,9 +9,6 @@ import android.view.ViewGroup;
 import butterknife.ButterKnife;
 import icepick.Icepick;
 
-/**
- * Created by Philippe on 21/11/2017.
- */
 
 public abstract class BaseFragment extends Fragment {
 
